@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(38, 159, 119);
+  
+}
+.nav_text{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.nav{
+  width: 500px;
+  height: 500px;
+  padding: 100px;
+  background-color: rgb(252, 252, 252);
+  margin: 100px 400px;
+  background-image: url("/img/bicycle.png") ;
+  /* width: 900px; */
+}
+.text{
+  font-size: 25px;
+  color: black;
+  font-weight: 700;
+}
+img{
+  border-radius: 50%;
+  border: solid 0.5px black;
+  padding: 5px;
+  /* width: 200px; */
+}
+h2{
+  font-weight: 900;
+}
+h3{
+  color: rgb(92, 94, 95);
+}
+.for{
+  color: rgb(126, 126, 120);
